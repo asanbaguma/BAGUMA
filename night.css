@@ -1,0 +1,37 @@
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: greenyellow;
+   
+}
+.contact-form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.contact-form h2 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.form-control:focus {
+    border-color: #007bff;
+   
+}
+
+.asan{
+    border-color: white;
+}
+
+.bg{
+    background-color: rgb(13, 226, 162);
+    
+}
+
+.bga{
+    justify-content: space-around;
+}
+
